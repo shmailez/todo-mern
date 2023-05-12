@@ -8,7 +8,7 @@ import {
     TOGGLE_TAB
  } from './type'
 
-const API_URL = `https://just-todo-mern.onrender.com`
+const API_URL = `https://simple-todo-mern.onrender.com/`
 
 export const addNewTodo = (data) => async (dispatch) => {
     try{
